@@ -1,6 +1,6 @@
 # AutoScout24 Client - Official Carapis AutoScout24 API Client
 
-[![NPM version](https://badge.fury.io/js/autoscout24.svg)](https://github.com/markolofsen/carapis-autoscout24-npm) [![PyPI version](https://badge.fury.io/py/autoscout24.svg)](https://github.com/markolofsen/carapis-autoscout24-pypi)
+[![NPM version](https://badge.fury.io/js/autoscout24.svg)](https://github.com/markolofsen/carapis-autoscout24) [![PyPI version](https://badge.fury.io/py/autoscout24.svg)](https://github.com/markolofsen/carapis-autoscout24)
 [![API Docs](https://img.shields.io/badge/API%20Docs-Carapis%20AutoScout24%20API-blue)](https://carapis.com/docs) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Official Python client parser for the Carapis AutoScout24 API. Access real-time vehicle data via a powerful REST API. (AutoScout24) Use this library to access, search, and analyze real-time vehicle data from AutoScout24 via a powerful REST API provided by Carapis.com.

@@ -1,12 +1,12 @@
 {
     "name": "autoscout24",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Official TypeScript client parser for the Carapis AutoScout24 API. Access real-time vehicle data via a powerful REST API. (AutoScout24)",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "repository": {
         "type": "git",
-        "url": "https://github.com/markolofsen/carapis-autoscout24-npm"
+        "url": "https://github.com/markolofsen/carapis-autoscout24"
     },
     "documentation": "https://carapis.com/docs",
     "keywords": [
@@ -27,7 +27,7 @@
     "author": "Carapis.com <info@carapis.com> (https://carapis.com/)",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/markolofsen/carapis-autoscout24-npm/issues"
+        "url": "https://github.com/markolofsen/carapis-autoscout24/issues"
     },
     "homepage": "https://carapis.com/",
     "files": [
